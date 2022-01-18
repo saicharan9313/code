@@ -1,2 +1,3 @@
 # code
-code repo
+code repo for learning
+
